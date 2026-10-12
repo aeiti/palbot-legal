@@ -101,7 +101,7 @@ it, or discontinue it entirely, at any time and for any reason — in particular
 where these terms are being broken.
 
 You may stop using the bot at any time by removing it from your server. See
-the [Privacy Policy](https://aeiti.github.io/palmon-bot-legal/privacy-policy/)
+the [Privacy Policy](https://aeiti.github.io/palbot-legal/privacy-policy/)
 for what happens to stored data when you do.
 
 <a id="donations"></a>
@@ -130,7 +130,7 @@ promise that any given amount is spent on any given thing.
 Buy Me a Coffee takes the payment and passes it on. Your card details are handled
 by Buy Me a Coffee and its payment processor, never by the operator and never by
 the bot — see the
-[Privacy Policy](https://aeiti.github.io/palmon-bot-legal/privacy-policy/#donations)
+[Privacy Policy](https://aeiti.github.io/palbot-legal/privacy-policy/#donations)
 for what that means for your data.
 
 **Recurring donations.** Nothing recurs unless you choose a recurring option on
