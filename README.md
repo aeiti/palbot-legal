@@ -1,4 +1,4 @@
-# palmon-bot-legal
+# palbot-legal
 
 Public policy documents for **Palmon Bot**, an unofficial Discord bot for
 *Palmon: Survival* communities.
@@ -9,14 +9,14 @@ that anyone can open.
 
 | Document | Published at |
 | --- | --- |
-| [Terms of Service](terms-of-service.md) | <https://aeiti.github.io/palmon-bot-legal/terms-of-service/> |
-| [Privacy Policy](privacy-policy.md) | <https://aeiti.github.io/palmon-bot-legal/privacy-policy/> |
+| [Terms of Service](terms-of-service.md) | <https://aeiti.github.io/palbot-legal/terms-of-service/> |
+| [Privacy Policy](privacy-policy.md) | <https://aeiti.github.io/palbot-legal/privacy-policy/> |
 
 Those two URLs are the ones registered in the Discord Developer Portal, under
 **General Information → Terms of Service URL / Privacy Policy URL**. They are
 served by GitHub Pages from `main`, so a push to `main` publishes.
 
-The site root — <https://aeiti.github.io/palmon-bot-legal/> — is also the
+The site root — <https://aeiti.github.io/palbot-legal/> — is also the
 business website registered with Buy Me a Coffee and, through it, with Stripe.
 It has to keep describing the donation terms in plain sight: a payment
 processor's review compares the site against the account, and a site that says
