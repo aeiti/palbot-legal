@@ -7,7 +7,7 @@ permalink: /privacy-policy/
 
 **Palmon Bot** — a Discord bot for *Palmon: Survival* communities.
 
-Last updated: 25 September 2026
+Last updated: 6 November 2026
 
 This policy explains what Palmon Bot stores, why, where it lives, and how to
 have it removed. The short version: it stores Discord ID numbers and the
@@ -28,7 +28,7 @@ the operator runs it on. It consists of:
 | --- | --- |
 | **Discord user IDs** (numeric snowflakes) of whoever added, re-dated or revoked a gift code, and of whoever changed a setting | So the bot can show who did it — `/codes` credits the person who added a code, `/settings` shows who changed a setting |
 | **Server (guild) IDs** | To keep each server's settings and announcements separate from every other server's |
-| **Channel IDs** you configure | So the bot knows where to post announcements |
+| **Channel and role IDs** you configure | So the bot knows where to post announcements, and which role, if any, to mention in them |
 | **Setting values** your moderators choose | So your choices survive a restart |
 | **Gift codes**, their reward text, expiry dates and timestamps | To list codes that are still live, and to avoid announcing the same code twice |
 | **Announcement bookkeeping** — which server has been told about which event or code, and when | So a restart does not repost an announcement your channel has already seen |

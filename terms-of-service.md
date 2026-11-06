@@ -7,7 +7,7 @@ permalink: /terms-of-service/
 
 **Palmon Bot** — a Discord bot for *Palmon: Survival* communities.
 
-Last updated: 25 September 2026
+Last updated: 6 November 2026
 
 By adding Palmon Bot to a Discord server, or by using any of its commands, you
 agree to these terms. If you do not agree with them, remove the bot from your
@@ -74,6 +74,11 @@ code, changing the bot's settings — are restricted to server moderators. That
 restriction is enforced by Discord permissions, which your server's
 administrators control. **It is your server's responsibility to grant those
 permissions to the right people.** The bot honours whatever Discord tells it.
+
+Moderators can also choose a role for the bot to mention in its event alerts.
+A mention notifies everyone who holds that role, so choose roles whose members
+want those alerts. The bot mentions only the role a moderator chose, and only
+in the posts that alert players to act.
 
 ## 7. Availability, and no warranty
 
